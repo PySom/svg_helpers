@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoveWhiteSpace": {
+      "commandName": "Project",
+      "commandLineArgs": "replace|C:\\Users\\Dell\\Downloads  "
+    }
+  }
+}
